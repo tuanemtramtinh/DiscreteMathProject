@@ -1,0 +1,21 @@
+# ninja log v5
+2	330	7055299607565348	build.ninja	2c7ee425c86f084b
+5	817	7055299617072896	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+0	1206	7055299620958720	CMakeFiles/DMProjectFinal.dir/expression_process.cpp.obj	5270d13087c2910
+1206	1546	7055299624306994	DMProjectFinal.exe	383c265683205be3
+9	577	7055300347447985	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+577	782	7055300349461517	DMProjectFinal.exe	383c265683205be3
+6	1072	7055308274043247	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+61	1691	7055308280219200	CMakeFiles/DMProjectFinal.dir/expression_process.cpp.obj	5270d13087c2910
+3	3628	7055308743002395	CMakeFiles/DMProjectFinal.dir/expression_process.cpp.obj	5270d13087c2910
+7	4863	7055309651981430	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+30	5586	7055309659193258	CMakeFiles/DMProjectFinal.dir/expression_process.cpp.obj	5270d13087c2910
+5	3286	7055310044236148	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+18	5015	7055310061497204	CMakeFiles/DMProjectFinal.dir/expression_process.cpp.obj	5270d13087c2910
+5016	5395	7055310065275089	DMProjectFinal.exe	383c265683205be3
+7	685	7055310663058089	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+686	1076	7055310666926875	DMProjectFinal.exe	383c265683205be3
+6	625	7055311807489144	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+626	999	7055311811165855	DMProjectFinal.exe	383c265683205be3
+8	665	7055312194849789	CMakeFiles/DMProjectFinal.dir/main.cpp.obj	d852f74e14e831a8
+665	1037	7055312198525451	DMProjectFinal.exe	383c265683205be3
